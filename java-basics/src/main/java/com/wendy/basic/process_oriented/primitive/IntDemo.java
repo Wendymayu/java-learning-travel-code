@@ -11,6 +11,6 @@ public class IntDemo {
         int length = 30;
         int width = 10;
         int area = length * width;
-        System.out.println();
+        System.out.println("the area is: " + area);
     }
 }
