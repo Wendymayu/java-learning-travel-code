@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="datastructurealgorithm" />
+        <module name="middleware" />
+        <module name="springboot-blog" />
+        <module name="springboot-learning" />
+        <module name="dockerdeploy" />
+        <module name="utils" />
+        <module name="java-ecology" />
+        <module name="javabasics" />
+        <module name="java-web" />
+        <module name="designpattern" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="datastructurealgorithm" options="-parameters" />
+      <module name="designpattern" options="-parameters" />
+      <module name="dockerdeploy" options="-parameters" />
+      <module name="java-ecology" options="-parameters" />
+      <module name="java-learning-travel-demo" options="-parameters" />
+      <module name="java-web" options="-parameters" />
+      <module name="javabasics" options="-parameters" />
+      <module name="middleware" options="-parameters" />
+      <module name="springboot-blog" options="-parameters" />
+      <module name="springboot-learning" options="-parameters" />
+      <module name="utils" options="-parameters" />
+    </option>
+  </component>
+</project>

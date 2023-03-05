@@ -1,0 +1,18 @@
+{
+  "menus": [
+    {
+      "id": "1",
+      "zh_name": "百度",
+      "en_name": "baidu",
+      "other_service": false,
+      "url": "www.baidu.com"
+    },
+    {
+      "id": "2",
+      "zh_name": "腾讯",
+      "en_name": "tencent",
+      "other_service": false,
+      "url": "www.tencent.com"
+    }
+  ]
+}

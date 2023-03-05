@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a71ce8a-6202-4355-afcd-30c834da872d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/data-structure-algorithm/target/" />
+    <ignored path="$PROJECT_DIR$/java-basics/target/" />
+    <ignored path="$PROJECT_DIR$/design-pattern/target/" />
+    <ignored path="$PROJECT_DIR$/java-web/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-blog/target/" />
+    <ignored path="$PROJECT_DIR$/middleware/target/" />
+    <ignored path="$PROJECT_DIR$/java-ecology/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-learning/target/" />
+    <ignored path="$PROJECT_DIR$/utils/target/" />
+    <ignored path="$PROJECT_DIR$/docker-deploy/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/java-web">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-deploy/src/main/resources/nginx_image.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/primitive/IntDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/primitive/FloatDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/test/java/com/wendy/basic/process_oriented/primitive/floatDemoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/constants/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/constants/ContantsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <element signature="e#269#270#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/test/java/com/wendy/basic/process_oriented/constants/ContantsDemoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/constants/IntegerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/test/java/com/wendy/basic/process_oriented/primitive/IntDemoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/advanced_feature/exceptionPrac/TestMyException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="8" column="28" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/advanced_feature/exceptionPrac/MyException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/multi_thread/TestWebThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#1061#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/multi_thread/LockTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1069">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/nextLineDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-basics/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution53_1.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution11.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution3.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution10_2.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution15.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>printElement</find>
+      <find>headNode</find>
+      <find>printList</find>
+      <find>elasticsearch</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/java-ecology/src/main/java/com/wendy/poi/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/java-ecology/pom.xml" />
+        <option value="$PROJECT_DIR$/java-ecology/src/main/java/com/wendy/poi/mapper/CustomerMapper.java" />
+        <option value="$PROJECT_DIR$/java-ecology/src/main/java/com/wendy/poi/controller/CustomerController.java" />
+        <option value="$PROJECT_DIR$/java-ecology/src/main/java/com/wendy/poi/CustomerExcelUtil.java" />
+        <option value="$PROJECT_DIR$/java-ecology/src/main/java/com/wendy/poi/service/CustomerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/java-ecology/src/main/java/com/wendy/bean_validation/ValidationController.java" />
+        <option value="$PROJECT_DIR$/java-ecology/src/main/java/com/wendy/bean_validation/myValidation/MyNotNullValidator.java" />
+        <option value="$PROJECT_DIR$/java-ecology/src/main/java/com/wendy/bean_validation/myValidation/SelfDefinedNotNull.java" />
+        <option value="$PROJECT_DIR$/java-ecology/src/main/java/com/wendy/bean_validation/myValidation/MyNotNull.java" />
+        <option value="$PROJECT_DIR$/java-ecology/src/main/java/com/wendy/bean_validation/User.java" />
+        <option value="$PROJECT_DIR$/java-ecology/src/main/java/com/wendy/http/okhttp/Client.java" />
+        <option value="$PROJECT_DIR$/springboot-learning/src/main/java/com/wendy/filetransform/Result.java" />
+        <option value="$PROJECT_DIR$/springboot-learning/src/main/java/com/wendy/filetransform/springMultipart/UoloadController.java" />
+        <option value="$PROJECT_DIR$/springboot-learning/src/main/java/com/wendy/filetransform/download/DownloadController.java" />
+        <option value="$PROJECT_DIR$/springboot-learning/src/main/java/com/wendy/filetransform/upload/controller/UoloadController.java" />
+        <option value="$PROJECT_DIR$/springboot-learning/src/main/java/com/wendy/java_web/filter/config/FilterConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-learning/src/main/java/com/wendy/java_web/filter/FilterTest.java" />
+        <option value="$PROJECT_DIR$/springboot-learning/src/main/java/com/wendy/java_web/cookie/CookieSessionTest.java" />
+        <option value="$PROJECT_DIR$/springboot-learning/src/main/java/com/wendy/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/springboot-learning/src/main/java/com/wendy/interceptor/WebConfigure.java" />
+        <option value="$PROJECT_DIR$/springboot-learning/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/java-ecology/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/regular/regularTest.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/juc/concurrent_hashmap/WordCreation.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/clonePrac/ClonePerson.java" />
+        <option value="$PROJECT_DIR$/springboot-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/common_library/date/DateTest.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/helloworld/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/array/arrayTest.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/string/StringDemo.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/ifelse/SwitchDemo.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/nextLineDemo.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/BinaryTest.java" />
+        <option value="$PROJECT_DIR$/java-web/src/main/java/com/wendy/filter/FilterTest.java" />
+        <option value="$PROJECT_DIR$/java-web/src/main/java/com/wendy/config/FilterConfig.java" />
+        <option value="$PROJECT_DIR$/java-web/src/main/java/com/wendy/cookie/CookieSessionTest.java" />
+        <option value="$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution15.java" />
+        <option value="$PROJECT_DIR$/utils/src/main/java/com/wendy/utils/ListNode.java" />
+        <option value="$PROJECT_DIR$/utils/src/main/java/com/wendy/utils/ListNodeUtils.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/primitive/IntDemo.java" />
+        <option value="$PROJECT_DIR$/java-basics/pom.xml" />
+        <option value="$PROJECT_DIR$/java-basics/src/test/java/com/wendy/basic/process_oriented/primitive/IntDemoTest.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/advanced_feature/exceptionPrac/TestMyException.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/multi_thread/TestWebThread.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/primitive/floatDemo.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/primitive/FloatDemo.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/test/java/com/wendy/basic/process_oriented/primitive/floatDemoTest.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/constants/Constants.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/constants/ContantsDemo.java" />
+        <option value="$PROJECT_DIR$/java-basics/src/test/java/com/wendy/basic/process_oriented/constants/ContantsDemoTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-6" />
+    <option name="y" value="-6" />
+    <option name="width" value="1401" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="advanced_feature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="advanced_feature" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptionPrac" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="process_oriented" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="process_oriented" type="462c0819:PsiDirectoryNode" />
+              <item name="constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="process_oriented" type="462c0819:PsiDirectoryNode" />
+              <item name="primitive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="process_oriented" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learning-travel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learning-travel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendy" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="process_oriented" type="462c0819:PsiDirectoryNode" />
+              <item name="constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowAnt Build.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.wendy.basic.process_oriented.constants" />
+      <recent name="com.wendy.basic.process_oriented.primitive" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wendy" />
+      <recent name="com.wendy.http" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_project\java-learning-travel-demo\data-structure-algorithm\src\main\java\com\wendy" />
+      <recent name="D:\java_project\java-learning-travel-demo\docker-deploy\src\main\java\com\wendy" />
+      <recent name="D:\java_project\java-learning-travel-demo\java-web\src\main\java\com\wendy" />
+      <recent name="D:\java_project\java-learning-travel-demo\java-basics\src\main\java\com\wendy\basic" />
+      <recent name="D:\java_project\java-learning-travel-demo\springboot-learning\src\main\java\com\wendy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wendy.utils" />
+      <recent name="com.wendy.basic.process_oriented" />
+      <recent name="com.wendy.basic.process_oriented.ifelse" />
+      <recent name="com.wendy.basic.process_oriented.string" />
+      <recent name="com.wendy.basic.process_oriented.array" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java_project\java-learning-travel-demo\docker-deploy\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ContantsDemoTest">
+    <configuration name="BucketSortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wendy.algorightm.sort.BucketSortDemo" />
+      <module name="datastructurealgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wendy.algorightm.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContantsDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javabasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wendy.basic.process_oriented.constants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wendy.basic.process_oriented.constants" />
+      <option name="MAIN_CLASS_NAME" value="com.wendy.basic.process_oriented.constants.ContantsDemoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntDemoTest.test_initInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javabasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wendy.basic.process_oriented.primitive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wendy.basic.process_oriented.primitive" />
+      <option name="MAIN_CLASS_NAME" value="com.wendy.basic.process_oriented.primitive.IntDemoTest" />
+      <option name="METHOD_NAME" value="test_initInt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="floatDemoTest.test_init_float" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javabasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wendy.basic.process_oriented.primitive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wendy.basic.process_oriented.primitive" />
+      <option name="MAIN_CLASS_NAME" value="com.wendy.basic.process_oriented.primitive.floatDemoTest" />
+      <option name="METHOD_NAME" value="test_init_float" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaEcologyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="java-ecology" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wendy.JavaEcologyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="java-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wendy.JavaWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiddlewareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="middleware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wendy.MiddlewareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wendy.springbootblog.SpringbootBlogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootLearningApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-learning" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wendy.SpringbootLearningApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BucketSortDemo" />
+      <item itemvalue="Spring Boot.JavaEcologyApplication" />
+      <item itemvalue="Spring Boot.JavaWebApplication" />
+      <item itemvalue="Spring Boot.MiddlewareApplication" />
+      <item itemvalue="Spring Boot.SpringbootBlogApplication" />
+      <item itemvalue="Spring Boot.SpringbootLearningApplication" />
+      <item itemvalue="JUnit.IntDemoTest.test_initInt" />
+      <item itemvalue="JUnit.floatDemoTest.test_init_float" />
+      <item itemvalue="JUnit.ContantsDemoTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ContantsDemoTest" />
+        <item itemvalue="JUnit.floatDemoTest.test_init_float" />
+        <item itemvalue="JUnit.IntDemoTest.test_initInt" />
+        <item itemvalue="Application.BucketSortDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a71ce8a-6202-4355-afcd-30c834da872d" name="Default Changelist" comment="" />
+      <created>1677997172613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677997172613</updated>
+      <workItem from="1677997175861" duration="11822000" />
+      <workItem from="1678012305934" duration="1868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="IntDemoTest_test_initInt - 2023.03.05 at 18h 42m 08s.xml">
+      <configuration name="IntDemoTest.test_initInt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="floatDemoTest_test_init_float - 2023.03.05 at 18h 46m 27s.xml">
+      <configuration name="floatDemoTest.test_init_float" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContantsDemoTest - 2023.03.05 at 18h 52m 39s.xml">
+      <configuration name="ContantsDemoTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13690000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1455" height="927" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32129964" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32988358" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26002586" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2587322" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32988358" />
+      <window_info anchor="bottom" id="Analysis" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32988358" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.24981949" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3299639" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/common_library/string/StringBuilerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/helloworld/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/array/arrayTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/string/StringDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/ifelse/SwitchDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/Test.java" />
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/CodeBaseApplication.java" />
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/BinaryTest.java" />
+    <entry file="file://$PROJECT_DIR$/java-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-web/src/main/java/com/wendy/config/FilterConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-web/src/main/java/com/wendy/cookie/CookieSessionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-web/src/main/java/com/wendy/filter/FilterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-web/src/main/java/com/wendy/listener/ListenerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/wendy/utils/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/wendy/utils/ListUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/wendy/utils/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/wendy/utils/ListNodeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/com/wendy/pojo/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-deploy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution10_1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution6.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution5.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution53_2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution21.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution29.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution42.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution17.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution40.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution57.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution53_1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution11.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution10_2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-structure-algorithm/src/main/java/com/wendy/sword_for_offer/Solution15.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-deploy/src/main/resources/nginx_image.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/nextLineDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/test/java/com/wendy/basic/process_oriented/primitive/IntDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/advanced_feature/exceptionPrac/TestMyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="28" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/advanced_feature/exceptionPrac/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/multi_thread/LockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1069">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/io/FileDownload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-625">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/multi_thread/TestWebThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#1061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/primitive/IntDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/constants/IntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/primitive/FloatDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/test/java/com/wendy/basic/process_oriented/primitive/floatDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/constants/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/test/java/com/wendy/basic/process_oriented/constants/ContantsDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basics/src/main/java/com/wendy/basic/process_oriented/constants/ContantsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
