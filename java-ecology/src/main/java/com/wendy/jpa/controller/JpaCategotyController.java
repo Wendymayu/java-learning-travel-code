@@ -23,17 +23,17 @@ public class JpaCategotyController {
     private JpaCategoryService jpaCategoryService;
 
     @GetMapping("/{id}")
-    public JpaCategory findOne(@PathVariable("id") String id){
+    public JpaCategory findOne(@PathVariable("id") String id) {
         return jpaCategoryService.findOne(id);
     }
 
     @GetMapping("/info/{category_name}")
-    public Iterable<JpaCategory> findByCategoryName(@PathVariable("category_name") String categoryName){
+    public Iterable<JpaCategory> findByCategoryName(@PathVariable("category_name") String categoryName) {
         return jpaCategoryService.findByCategoryName(categoryName);
     }
 
     @GetMapping("/all")
-    public Iterable<JpaCategory> findAll(){
+    public Iterable<JpaCategory> findAll() {
         return jpaCategoryService.findAll();
     }
 }

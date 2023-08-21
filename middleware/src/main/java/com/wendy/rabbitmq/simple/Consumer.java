@@ -13,13 +13,14 @@ public class Consumer {
 
     public static void main(String[] args) throws Exception {
         ConnectionFactory factory = new ConnectionFactory();
-        factory.setHost("175.24.68.139");
+        factory.setHost("124.223.27.13");
         //factory.setPort(15672);
         factory.setUsername("guest");
         factory.setPassword("guest");
 
         Connection connection = factory.newConnection();
         Channel channel = connection.createChannel();
+
         System.out.println("等待接收消息....");
 
         //推送的消息如何进行消费的接口回调，这里用lambda实现的接口

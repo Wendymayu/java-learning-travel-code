@@ -15,7 +15,7 @@ import java.io.*;
  * @Version 1.0
  */
 public class CreateXML {
-    public void dom4jCreateXML(){
+    public void dom4jCreateXML() {
         File file = new File("output.xml");
         try {
             // 创建一个Document实例
@@ -25,7 +25,7 @@ public class CreateXML {
             Element root = doc.addElement("root");
 
             // 在根节点下添加第一个子节点
-            Element oneChildElement= root.addElement("person").addAttribute("attr", "root noe");
+            Element oneChildElement = root.addElement("person").addAttribute("attr", "root noe");
             oneChildElement.addElement("people")
                     .addAttribute("attr", "child one")
                     .addText("person one child one");
@@ -34,7 +34,7 @@ public class CreateXML {
                     .addText("person one child two");
 
             // 在根节点下添加第一个子节点
-            Element twoChildElement= root.addElement("person").addAttribute("attr", "root two");
+            Element twoChildElement = root.addElement("person").addAttribute("attr", "root two");
             twoChildElement.addElement("people")
                     .addAttribute("attr", "child one")
                     .addText("person two child one");

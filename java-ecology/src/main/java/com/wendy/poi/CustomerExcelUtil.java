@@ -18,7 +18,7 @@ import java.util.List;
  * @Version 1.0
  */
 public class CustomerExcelUtil {
-    public static void exportExcel(List<Customer> customers){
+    public static void exportExcel(List<Customer> customers) {
         Workbook workbook = new XSSFWorkbook();
         Sheet sheet1 = workbook.createSheet("customers");
         Row row1 = sheet1.createRow(0);
@@ -27,7 +27,7 @@ public class CustomerExcelUtil {
         Cell cell1 = row1.createCell(0);
         cell1.setCellValue("顾客表");
         //合并单元格CellRangeAddress构造参数依次表示起始行，截至行，起始列， 截至列
-        sheet1.addMergedRegion(new CellRangeAddress(0,0,0,8));
+        sheet1.addMergedRegion(new CellRangeAddress(0, 0, 0, 8));
 
         // 创建表头行
         Row row2 = sheet1.createRow(1);
@@ -43,7 +43,7 @@ public class CustomerExcelUtil {
 
         //创建内容行
         int i = 2;
-        for(Customer customer:customers){
+        for (Customer customer : customers) {
             Row row = sheet1.createRow(i);
             row.createCell(0).setCellValue(customer.getCustId());
             row.createCell(1).setCellValue(customer.getCustName());
@@ -75,14 +75,14 @@ public class CustomerExcelUtil {
         ClassPathResource resource = new ClassPathResource(path);
         InputStream inputStream = resource.getInputStream();
         Workbook workbook;
-        if(path.endsWith("xlsx")){
+        if (path.endsWith("xlsx")) {
             workbook = new XSSFWorkbook(inputStream);
-        }else {
+        } else {
             workbook = new HSSFWorkbook(inputStream);
         }
         Sheet sheet1 = workbook.getSheet("customers");
         List<Customer> customerList = new ArrayList<>();
-        for(int i=2;i<sheet1.getLastRowNum();i++){
+        for (int i = 2; i < sheet1.getLastRowNum(); i++) {
             Customer customer = new Customer();
             Row row = sheet1.getRow(i);
             customer.setCustId(Integer.parseInt(getStringValue(row.getCell(0))));
@@ -105,6 +105,7 @@ public class CustomerExcelUtil {
      * create by: wendyMa
      * description: 先从单元格中统一返回字符串数据；如果不用该方法，数据类型转换很讨厌
      * create time: 2022/3/5 7:04
+     *
      * @return
      */
     private static String getStringValue(Cell cell) {

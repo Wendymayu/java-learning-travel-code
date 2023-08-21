@@ -20,11 +20,11 @@ public class Client {
         try {
             Response response = client.newCall(request).execute();
             String string = response.body().string();
-            return ;
+            return;
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return ;
+        return;
 
     }
 }

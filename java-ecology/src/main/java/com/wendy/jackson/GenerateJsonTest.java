@@ -16,7 +16,7 @@ public class GenerateJsonTest {
 
     public static void main(String[] args) throws IOException {
         File file = new File("output.json");
-        if(!file.exists()){
+        if (!file.exists()) {
             file.createNewFile();
         }
         Website website = new Website();
@@ -30,6 +30,6 @@ public class GenerateJsonTest {
         String s = objectMapper.writeValueAsString(website);
         System.out.println(s);
         // 将json对象写入文件
-        objectMapper.writeValue(file,website);
+        objectMapper.writeValue(file, website);
     }
 }

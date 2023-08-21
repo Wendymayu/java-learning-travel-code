@@ -22,8 +22,9 @@ import java.util.List;
 public class CustomerController {
     @Autowired
     private CustomerService customerService;
+
     @GetMapping("/export")
-    public void export(){
+    public void export() {
         List<Customer> customers = customerService.queryAllCustomers();
         CustomerExcelUtil.exportExcel(customers);
     }

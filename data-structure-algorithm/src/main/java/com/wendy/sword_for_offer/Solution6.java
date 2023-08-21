@@ -1,8 +1,8 @@
 package com.wendy.sword_for_offer;
 
-import leetcode.shuaTi.wendyHot100.Recursive.ListNode;
-import utils.ArrayUtils;
-import utils.ListNodeUtils;
+import com.wendy.leetcode.wendyHot100.Recursive.ListNode;
+import com.wendy.utils.ArrayUtils;
+import com.wendy.utils.ListNodeUtils;
 
 import java.util.ArrayList;
 import java.util.List;

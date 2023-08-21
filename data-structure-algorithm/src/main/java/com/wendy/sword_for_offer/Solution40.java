@@ -1,6 +1,6 @@
 package com.wendy.sword_for_offer;
 
-import utils.ArrayUtils;
+import com.wendy.utils.ArrayUtils;
 
 import java.util.Arrays;
 

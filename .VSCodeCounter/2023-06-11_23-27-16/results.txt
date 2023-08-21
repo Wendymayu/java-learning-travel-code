@@ -1,0 +1,48 @@
+Date : 2023-06-11 23:27:16
+Directory : d:\java_project\java-learning-travel-demo\springboot-blog
+Total : 6 files,  160 codes, 67 comments, 53 blanks, all 280 lines
+
+Languages
++-----------------+------------+------------+------------+------------+------------+
+| language        | files      | code       | comment    | blank      | total      |
++-----------------+------------+------------+------------+------------+------------+
+| Batch           |          1 |        102 |         51 |         36 |        189 |
+| XML             |          1 |         38 |          0 |          4 |         42 |
+| Java            |          2 |         18 |          0 |         10 |         28 |
+| Java Properties |          2 |          2 |         16 |          3 |         21 |
++-----------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                 | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                    |          6 |        160 |         67 |         53 |        280 |
+| . (Files)                                                                                                                            |          2 |        140 |         51 |         40 |        231 |
+| .mvn                                                                                                                                 |          1 |          2 |         16 |          1 |         19 |
+| .mvn\wrapper                                                                                                                         |          1 |          2 |         16 |          1 |         19 |
+| src                                                                                                                                  |          3 |         18 |          0 |         12 |         30 |
+| src\main                                                                                                                             |          2 |          9 |          0 |          7 |         16 |
+| src\main\java                                                                                                                        |          1 |          9 |          0 |          5 |         14 |
+| src\main\java\com                                                                                                                    |          1 |          9 |          0 |          5 |         14 |
+| src\main\java\com\wendy                                                                                                              |          1 |          9 |          0 |          5 |         14 |
+| src\main\java\com\wendy\springbootblog                                                                                               |          1 |          9 |          0 |          5 |         14 |
+| src\main\resources                                                                                                                   |          1 |          0 |          0 |          2 |          2 |
+| src\test                                                                                                                             |          1 |          9 |          0 |          5 |         14 |
+| src\test\java                                                                                                                        |          1 |          9 |          0 |          5 |         14 |
+| src\test\java\com                                                                                                                    |          1 |          9 |          0 |          5 |         14 |
+| src\test\java\com\wendy                                                                                                              |          1 |          9 |          0 |          5 |         14 |
+| src\test\java\com\wendy\springbootblog                                                                                               |          1 |          9 |          0 |          5 |         14 |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| filename                                                                                                                             | language        | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| d:\java_project\java-learning-travel-demo\springboot-blog\.mvn\wrapper\maven-wrapper.properties                                      | Java Properties |          2 |         16 |          1 |         19 |
+| d:\java_project\java-learning-travel-demo\springboot-blog\mvnw.cmd                                                                   | Batch           |        102 |         51 |         36 |        189 |
+| d:\java_project\java-learning-travel-demo\springboot-blog\pom.xml                                                                    | XML             |         38 |          0 |          4 |         42 |
+| d:\java_project\java-learning-travel-demo\springboot-blog\src\main\java\com\wendy\springbootblog\SpringbootBlogApplication.java      | Java            |          9 |          0 |          5 |         14 |
+| d:\java_project\java-learning-travel-demo\springboot-blog\src\main\resources\application.properties                                  | Java Properties |          0 |          0 |          2 |          2 |
+| d:\java_project\java-learning-travel-demo\springboot-blog\src\test\java\com\wendy\springbootblog\SpringbootBlogApplicationTests.java | Java            |          9 |          0 |          5 |         14 |
+| Total                                                                                                                                |                 |        160 |         67 |         53 |        280 |
++--------------------------------------------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+

@@ -23,12 +23,12 @@ public class CategotyController {
     private CategoryService categoryService;
 
     @GetMapping("/{id}")
-    public Category findOne(@PathVariable("id") int id){
+    public Category findOne(@PathVariable("id") int id) {
         return categoryService.findOne(id);
     }
 
     @GetMapping("/all")
-    public Iterable<Category> findAll(){
+    public Iterable<Category> findAll() {
         return categoryService.findAll();
     }
 }

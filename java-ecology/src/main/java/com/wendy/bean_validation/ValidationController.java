@@ -25,7 +25,7 @@ public class ValidationController {
     }*/
 
     @PostMapping("/insert")
-    public Object insert(@Valid @RequestBody User user){
+    public Object insert(@Valid @RequestBody User user) {
         return "成功";
     }
 }

@@ -6,12 +6,12 @@ spring:
     name: test-rabbitmq-simple
   thymeleaf:
     cache: false
-#  rabbitmq:
-#    host: 175.24.68.139
-#    port: 15672
-#    username: guest
-#    password: guest
-#    virtualHost: /
+  rabbitmq:
+    host: 124.223.27.13
+    port: 5672
+    username: guest
+    password: guest
+    virtualHost: /
 #  datasource:
 #    driver-class-name: com.mysql.cj.jdbc.Driver
 #    username: root

@@ -15,7 +15,7 @@ import org.springframework.transaction.annotation.Transactional;
  */
 public interface CategoryRepository extends CrudRepository<JpaCategory, String> {
     /**
-     *  自动生成单表查询
+     * 自动生成单表查询
      */
     Iterable<JpaCategory> findByCategoryName(String categoryName);
 
@@ -30,7 +30,7 @@ public interface CategoryRepository extends CrudRepository<JpaCategory, String> 
     @Query("update JpaCategory n set n.description=:description where n.id =:id")
     int updateIpaCategory(String id, String description);
 
-    @Query(value="select * from ms_category c where c.category_name=:name",
-    nativeQuery = true)
+    @Query(value = "select * from ms_category c where c.category_name=:name",
+            nativeQuery = true)
     Iterable<JpaCategory> findByCategoryName4(@Param("name") String categoryName);
 }

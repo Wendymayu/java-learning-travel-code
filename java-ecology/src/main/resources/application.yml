@@ -21,7 +21,12 @@ spring:
         min-idle: 10
         max-active: 50
         max-wait: -1
-
+  rabbitmq:
+    host: 124.223.27.13
+    port: 15672
+    username: guest
+    password: guest
+    virtualHost: /
 
 
 mybatis-plus:

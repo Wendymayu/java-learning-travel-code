@@ -13,12 +13,16 @@
         <module name="springboot-learning" />
         <module name="dockerdeploy" />
         <module name="utils" />
-        <module name="java-ecology" />
         <module name="javabasics" />
         <module name="java-web" />
+        <module name="springboot-demo" />
         <module name="designpattern" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-ecology" target="17" />
+      <module name="rabbitmq-demo" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -30,7 +34,9 @@
       <module name="java-web" options="-parameters" />
       <module name="javabasics" options="-parameters" />
       <module name="middleware" options="-parameters" />
+      <module name="rabbitmq-demo" options="-parameters" />
       <module name="springboot-blog" options="-parameters" />
+      <module name="springboot-demo" options="-parameters" />
       <module name="springboot-learning" options="-parameters" />
       <module name="utils" options="-parameters" />
     </option>

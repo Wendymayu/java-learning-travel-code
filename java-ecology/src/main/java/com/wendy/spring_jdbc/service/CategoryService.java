@@ -16,11 +16,11 @@ public class CategoryService {
     @Autowired
     private CategoryRepository categaryRepository;
 
-    public Iterable<Category> findAll(){
+    public Iterable<Category> findAll() {
         return categaryRepository.findAll();
     }
 
-    public Category findOne(int id){
+    public Category findOne(int id) {
         return categaryRepository.findOne(id);
     }
 }

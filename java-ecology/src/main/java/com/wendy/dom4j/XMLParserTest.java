@@ -12,7 +12,7 @@ public class XMLParserTest {
     public static void main(String[] args) {
         XMLParser xmlParser = new XMLParser();
         List<Dependency> dependencyList = xmlParser.parseXML();
-        for(Dependency dependency:dependencyList){
+        for (Dependency dependency : dependencyList) {
             System.out.println(dependency);
         }
     }

@@ -33,8 +33,8 @@
         <option value="$PROJECT_DIR$/java-web/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-blog/pom.xml" />
         <option value="$PROJECT_DIR$/middleware/pom.xml" />
-        <option value="$PROJECT_DIR$/java-ecology/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-demo/pom.xml" />
       </list>
     </option>
   </component>

@@ -2,7 +2,7 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
 <mapper namespace="com.wendy.parsefile.poiDemo.mapper.CustomerMapper">
     <!--查询所有顾客-->
-    <select id="queryAllCustomers"  resultType="com.wendy.parsefile.poiDemo.pojo.Customer">
+    <select id="queryAllCustomers" resultType="com.wendy.parsefile.poiDemo.pojo.Customer">
  		select * from customers;
  	</select>
 </mapper>

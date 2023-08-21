@@ -1,6 +1,6 @@
 package com.wendy.leetcode.orderly.problem20_29;
 
-import leetcode.shuaTi.wendyHot100.Recursive.ListNode;
+import com.wendy.leetcode.wendyHot100.Recursive.ListNode;
 
 /**
  * @Description TODO
